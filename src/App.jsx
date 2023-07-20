@@ -5,13 +5,11 @@ import Text from "./components/Text";
 
 function App() {
   return (
-    <>
       <div className="container">
         <Intro />
         <Buttons />
         <Text />
       </div>
-    </>
   );
 }
 
